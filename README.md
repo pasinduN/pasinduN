@@ -2,7 +2,7 @@
 <ul>
  <li>Computer Science Undergraduate at the University of Ruhuna</li>
  <li>I’m currently learning **Web Development, Mobile Development & Machine Learning**</li>
- <li>How to reach me - pasindunanayakkara1116@gmail.com</li>
+ <li>How to reach me - <a href="pasindunanayakkara1116@gmail.com">pasindunanayakkara1116@gmail.com</a></li>
  <li>Open to collaborating with fellow Developers</li>
 </ul>
 
