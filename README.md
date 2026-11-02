@@ -119,8 +119,10 @@
   </a>
 
   <a href="https://octave.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Gnu-octave-logo.svg"
-     alt="GNU Octave" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/octave/default.svg"
+     alt="GNU Octave"
+     width="40"
+     height="40" />
 
   </a>
 
