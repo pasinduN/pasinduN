@@ -119,7 +119,8 @@
   </a>
 
   <a href="https://octave.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/gnuoctave" alt="GNU Octave" height="40" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Gnu-octave-logo.svg"
+     alt="GNU Octave" width="40" height="40" />
 
   </a>
 
@@ -134,11 +135,13 @@
   </a>
 
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn.simpleicons.org/adobephotoshop" alt="Photoshop" height="40" width="40" />
+    <img src="https://devicons.io/devicons/icons/adobe-photoshop.svg"
+     alt="Photoshop" width="40" height="40" />
   </a>
 
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://cdn.simpleicons.org/adobeillustrator" alt="Illustrator" height="40" width="40" />
+    <img src="https://devicons.io/devicons/icons/adobe-illustrator.svg"
+     alt="Illustrator" width="40" height="40" />
   </a>
 
   <a href="https://www.gimp.org/" target="_blank">
