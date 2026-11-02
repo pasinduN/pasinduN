@@ -50,6 +50,7 @@
 
 <h3 align="left">🛠️ Development Tools & IDEs</h3>
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/netbeans/netbeans-original.svg" width="45" height="45" alt="Apache NetBeans"/>
 </p>
 
@@ -62,7 +63,12 @@
 <h3 align="left">🔬 Scientific & Mathematical Tools</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/octave/octave-original.svg" width="45" height="45" alt="GNU Octave"/>
+  <img
+  src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gnu-octave-logo.svg"
+  alt="GNU Octave"
+  width="45"
+  height="45"
+/>
 </p>
 
 <h3 align="left">🌐 Networking & Simulation</h3>
