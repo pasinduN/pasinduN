@@ -50,8 +50,7 @@
 
 <h3 align="left">🛠️ Development Tools & IDEs</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio" />
-  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/netbeans/netbeans-original.svg" width="45" height="45" alt="Apache NetBeans"/>
 </p>
 
 <h3 align="left">💿 Operating Systems & Virtualization</h3>
@@ -62,8 +61,8 @@
 
 <h3 align="left">🔬 Scientific & Mathematical Tools</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNU%20Octave-blue?style=for-the-badge&logo=octave&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/octave/octave-original.svg" width="45" height="45" alt="GNU Octave"/>
 </p>
 
 <h3 align="left">🌐 Networking & Simulation</h3>
@@ -79,8 +78,6 @@
 
 <h3 align="left">🎨 Design & Graphics Tools</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,gimp" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/illustrator/illustrator-original.svg" width="45" height="45" alt="Illustrator"/>
 </p>
-
