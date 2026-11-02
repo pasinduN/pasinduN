@@ -51,6 +51,7 @@
 <h3 align="left">🛠️ Development Tools & IDEs</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio" />
+  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
 </p>
 
 <h3 align="left">💿 Operating Systems & Virtualization</h3>
@@ -61,8 +62,8 @@
 
 <h3 align="left">🔬 Scientific & Mathematical Tools</h3>
 <p align="left">
-  <img src="https://cdn.simpleicons.org/mathworks" height="40" width="40" alt="MATLAB" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Gnu-octave-logo.svg" height="40" width="40" alt="GNU Octave" />
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU%20Octave-blue?style=for-the-badge&logo=octave&logoColor=white" />
 </p>
 
 <h3 align="left">🌐 Networking & Simulation</h3>
@@ -79,8 +80,7 @@
 <h3 align="left">🎨 Design & Graphics Tools</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=blender,gimp" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop" height="40" width="40" alt="Adobe Photoshop" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator" height="40" width="40" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 </p>
-
 
