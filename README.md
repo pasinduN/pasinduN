@@ -110,7 +110,7 @@
   </a>
 
   <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg" alt="VirtualBox" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/virtualbox" alt="VirtualBox" height="40" width="40" />
   </a>
 
   <!-- Scientific Computing -->
@@ -119,7 +119,8 @@
   </a>
 
   <a href="https://octave.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gnu-octave/octave/main/doc/interpreter/images/octave-logo.svg" alt="GNU Octave" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/gnuoctave" alt="GNU Octave" height="40" width="40" />
+
   </a>
 
   <!-- Electronics and IoT -->
@@ -133,11 +134,11 @@
   </a>
 
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Photoshop" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/adobephotoshop" alt="Photoshop" height="40" width="40" />
   </a>
 
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" alt="Illustrator" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/adobeillustrator" alt="Illustrator" height="40" width="40" />
   </a>
 
   <a href="https://www.gimp.org/" target="_blank">
